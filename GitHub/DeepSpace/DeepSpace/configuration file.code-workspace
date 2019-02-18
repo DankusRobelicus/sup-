@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Robotics\\VS Code Workspace\\AcquisitionTest"
+		},
+		{
+			"path": ".",
+			"name": "DeepSpace"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
